@@ -1,0 +1,5 @@
+streamlit>=1.29
+numpy>=1.24
+pandas>=2.0
+scikit-learn==1.7.2  # must match the version the model was pickled with
+matplotlib>=3.7
